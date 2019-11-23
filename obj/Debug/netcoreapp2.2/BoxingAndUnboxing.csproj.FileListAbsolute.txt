@@ -1,0 +1,11 @@
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\bin\Debug\netcoreapp2.2\BoxingAndUnboxing.deps.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\bin\Debug\netcoreapp2.2\BoxingAndUnboxing.runtimeconfig.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\bin\Debug\netcoreapp2.2\BoxingAndUnboxing.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\bin\Debug\netcoreapp2.2\BoxingAndUnboxing.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\bin\Debug\netcoreapp2.2\BoxingAndUnboxing.pdb
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\obj\Debug\netcoreapp2.2\BoxingAndUnboxing.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\obj\Debug\netcoreapp2.2\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\obj\Debug\netcoreapp2.2\BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\obj\Debug\netcoreapp2.2\BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\obj\Debug\netcoreapp2.2\BoxingAndUnboxing.dll
+C:\Users\MTanzil\Documents\CodingDojo\csharp_stack\BoxingAndUnboxing\obj\Debug\netcoreapp2.2\BoxingAndUnboxing.pdb
